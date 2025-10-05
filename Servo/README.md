@@ -34,10 +34,6 @@ Actuator / Motor
 - Use `servo.write(angle)` to move to specific angles.
 - Avoid overloading servo; use an external power supply if needed.
 
----
-
-## Sample Code
-*(Refer to Code section for full servo movement examples.)*
 
 ---
 
