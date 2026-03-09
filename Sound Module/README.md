@@ -75,6 +75,16 @@ No additional libraries required.
 
 ---
 
+
+## Photos / Screenshots
+- Setup image & diagram
+
+![Soundmodule_diagram](https://github.com/user-attachments/assets/cba05960-a869-4197-a98b-c88c25b83db2)
+![Soundmodule_connection](https://github.com/user-attachments/assets/728e3704-be0f-474b-9411-d07a2f8d702d)
+ 
+---
+
+
 ## Team Experience
 * *It was fun to work as a pair, as we could share our strengths and combine our knowledge to complete the project. The hands-on experience made the learning process enjoyable, and we discovered many new things along the way.*
 
