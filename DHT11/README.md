@@ -72,7 +72,7 @@ Sensor
 
 ## Photos / Screenshots
 - Include setup images or Serial Monitor output here.
-![Alt text]![DHT_connection](https://github.com/user-attachments/assets/5f17607f-a7ca-43b4-a95e-38e781f7994d)
+- ![DHT_connection](https://github.com/user-attachments/assets/5f17607f-a7ca-43b4-a95e-38e781f7994d)
 ---
 
 ## Output
@@ -81,7 +81,7 @@ Temperature = XX
 Humidity = YY
 
 Where XX = temperature in °C, YY = humidity in %.
-![Alt text]![DHT_output](https://github.com/user-attachments/assets/6a8369a9-638c-45f5-98f2-d4fd8632e2b6)
+- ![DHT_output](https://github.com/user-attachments/assets/6a8369a9-638c-45f5-98f2-d4fd8632e2b6)
 
 ---
 
