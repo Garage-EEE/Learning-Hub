@@ -82,6 +82,7 @@ Display
 
 ## Photos / Screenshots
 - Include pictures of your wiring setup and working display here.
+<img width="955" height="626" alt="image" src="https://github.com/user-attachments/assets/cd7ba8fa-fbbd-47f8-a081-994917e20154" />
 
 ---
 
