@@ -62,6 +62,11 @@ Actuator / Motor
 - [Arduino Servo Tutorial](https://www.arduino.cc/en/Tutorial/LibraryExamples/Servo)
 - [Servo Motor Basics](https://www.robotshop.com/community/forum/t/servo-motor-basics/24333)
 
+---
+
+## Photos / Screenshots
+- Include images of your joystick and servo connections here.
+<img width="902" height="467" alt="image" src="https://github.com/user-attachments/assets/e2b1d5f4-4df0-49a3-ab1a-61ee5a788dd0" />
 
 ---
 
