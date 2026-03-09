@@ -99,6 +99,14 @@ The Ultrasonic Sensor sends out ultrasonic waves and measures the time it takes 
 * [Tech-Trends GitHub Example](https://github.com/Tech-Trends-Shameer/Arduino-Projects/tree/main/Distance-Measurement-Using-Ultrasonic-Sensor-With-LCD-I2C)  
 
 ---
+## Photos/Screenshots
+<img width="898" height="419" alt="image" src="https://github.com/user-attachments/assets/4634bee7-4538-426b-927a-e252f2019aa3" />
+
+<img width="873" height="576" alt="image" src="https://github.com/user-attachments/assets/e6c57d4b-0e97-43ec-877b-4bc789fe40b1" />
+
+<img width="627" height="397" alt="image" src="https://github.com/user-attachments/assets/653aced8-5232-42b5-856e-12b4047eff02" />
+
+---
 
 ## Your Experience
 
