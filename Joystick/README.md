@@ -85,6 +85,7 @@ Sensor & Actuator
 
 ## Photos / Screenshots
 - Include images of your joystick and servo connections here.
+<img width="695" height="663" alt="image" src="https://github.com/user-attachments/assets/6aa7a0d7-3576-4792-a9af-cc43a64c8496" />
 
 ---
 
