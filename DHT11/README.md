@@ -71,7 +71,7 @@ Sensor
 ---
 
 ## Photos / Screenshots
-- Include setup images or Serial Monitor output here.
+- Setup image
 
  ![DHT_connection](https://github.com/user-attachments/assets/5f17607f-a7ca-43b4-a95e-38e781f7994d)
 ---
