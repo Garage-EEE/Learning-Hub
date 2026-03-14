@@ -80,16 +80,29 @@ Sensor
 ---
 
 ## Photos / Screenshots
+
+- General Setup:
+
 <p align="center">
   <img src="Picture/TouchSensor1.jpg" width="60%"/>
 </p>
+
+- Reading for sample code 1: 
+
 <p align="center">
-  <img src="Picture/TouchSensor2.png" width="40%"/>
-  <img src="Picture/TouchSensor3.png" width="40%"/>
+  <img src="Picture/TouchSensor2.png" width="80%"/>
 </p>
 <p align="center">
-  <img src="Picture/TouchSensor4.png" width="40%"/>
-  <img src="Picture/TouchSensor5.png" width="40%"/>
+  <img src="Picture/TouchSensor3.png" width="80%"/>
+</p>
+
+- Reading for sample code 2: 
+
+<p align="center">
+  <img src="Picture/TouchSensor4.png" width="80%"/>
+</p>
+<p align="center">
+  <img src="Picture/TouchSensor5.png" width="80%"/>
 </p>
 
 ---
