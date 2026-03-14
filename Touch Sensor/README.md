@@ -80,7 +80,17 @@ Sensor
 ---
 
 ## Photos / Screenshots
-- Include setup images and Serial Monitor/Plotter screenshots here.
+<p align="center">
+  <img src="Picture/TouchSensor1.jpg" width="60%"/>
+</p>
+<p align="center">
+  <img src="Picture/TouchSensor2.png" width="40%"/>
+  <img src="Picture/TouchSensor3.png" width="40%"/>
+</p>
+<p align="center">
+  <img src="Picture/TouchSensor4.png" width="40%"/>
+  <img src="Picture/TouchSensor5.png" width="40%"/>
+</p>
 
 ---
 
