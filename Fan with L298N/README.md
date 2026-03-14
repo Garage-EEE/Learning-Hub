@@ -68,8 +68,17 @@ Actuator
 ---
 
 ## Photos / Screenshots
-- Include images of setup and fan operation here.
-
+<p align="center">
+  <img src="Picture/Fan1.png" width="60%"/>
+</p>
+<p align="center">
+  <img src="Picture/Fan2.png" width="60%"/>
+</p>
+<p align="center">
+  <img src="Picture/Fan3.png" width="30%"/>
+  <img src="Picture/Fan4.png" width="30%"/>
+  <img src="Picture/Fan5.png" width="30%"/>
+</p>
 ---
 
 ## Your Experience
